@@ -25,8 +25,6 @@ const paths = {
         './public/js/revolution.extension.parallax.min.js', //OK
         './public/js/imagesloaded.pkgd.min.js', //OK
         './public/js/owl.carousel.min.js', //OK
-        // './public/js/masonry.pkgd.min.js',
-        // './public/js/isotope.pkgd.min.js',
         './public/js/main.min.js' //OK
     ]
 };
